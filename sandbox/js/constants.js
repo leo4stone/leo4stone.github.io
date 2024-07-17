@@ -1,0 +1,9 @@
+export const PARTICLE_COUNT = 500000;  // 增加粒子数量
+export const PARTICLE_SIZE = 0.02;
+export const CHESS_PIECE_RADIUS = 0.3;
+export const CHESS_PIECE_HEIGHT = 0.4;
+export const MIN_PIECE_HEIGHT = 0.2;
+export const SAND_DEPTH = 0.5;
+export const INTERACTION_RADIUS = 0.7;
+export const DAMPING = 0.99;
+export const GROUND_SIZE = 20;  // 新增：地面大小
