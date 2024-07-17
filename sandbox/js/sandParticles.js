@@ -4,7 +4,7 @@ import { getInteractionInfo } from './interactions.js';
 import { scene } from './scene.js';
 
 let sandParticles;
-const PARTICLE_COUNT = 300000;
+const PARTICLE_COUNT = 100000;
 const PARTICLE_SIZE = 0.02;
 const INTERACTION_WIDTH = 1.0;
 const INTERACTION_LENGTH = 2.0;
